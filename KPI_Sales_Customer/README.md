@@ -1,4 +1,4 @@
-# 📊 KPI Sales & Customer Dashboard
+# 🚀 Full-Cycle Tableau Project: Sales & Customer Dashboards
 
 An interactive Tableau dashboard analyzing key performance indicators for sales and customer metrics.
 
