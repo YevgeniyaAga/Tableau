@@ -49,9 +49,9 @@ Focuses on:
 
 ## 📸 Preview
 
-![Sales Dashboard Preview](assets/sales dashboard.png)
+![Sales Dashboard Preview](assets/Sales%20Dashbord.png)
 
-![Customer Dashboard Preview](assets/Customer Dashbord.png)
+![Customer Dashboard Preview](assets/Customer%20Dashbord.png)
 
 ## 📂 Repository Contents
 
